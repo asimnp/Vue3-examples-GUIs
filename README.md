@@ -6,4 +6,6 @@
 
 > Simple counter app with increment, decrement and reset features.
 
-[Code](https://github.com/alex1the1great/Counter)
+[Official Project](https://vuejs.org/examples/#counter)
+
+[Extended Version](https://github.com/alex1the1great/Counter)
